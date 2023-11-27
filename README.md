@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
+# awsome-tips
 
-<head>
-  <meta charset="UTF-8">
-  <title>Index</title>
-</head>
-
-<body>添加正确的路由来访问单文件</body>
-
-</html>
+收集 or 研究一些有意思的小样
